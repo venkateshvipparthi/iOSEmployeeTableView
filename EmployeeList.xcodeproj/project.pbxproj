@@ -16,6 +16,7 @@
 		84673B4527CCBF3200AE2AD2 /* EmployeeListTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84673B4427CCBF3200AE2AD2 /* EmployeeListTests.swift */; };
 		84673B4F27CCBF3200AE2AD2 /* EmployeeListUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84673B4E27CCBF3200AE2AD2 /* EmployeeListUITests.swift */; };
 		84673B5127CCBF3200AE2AD2 /* EmployeeListUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84673B5027CCBF3200AE2AD2 /* EmployeeListUITestsLaunchTests.swift */; };
+		84673B5E27CCCD8800AE2AD2 /* StudentTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84673B5D27CCCD8800AE2AD2 /* StudentTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		84673B4A27CCBF3200AE2AD2 /* EmployeeListUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EmployeeListUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		84673B4E27CCBF3200AE2AD2 /* EmployeeListUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmployeeListUITests.swift; sourceTree = "<group>"; };
 		84673B5027CCBF3200AE2AD2 /* EmployeeListUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmployeeListUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		84673B5D27CCCD8800AE2AD2 /* StudentTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				84673B2D27CCBF3000AE2AD2 /* AppDelegate.swift */,
 				84673B2F27CCBF3000AE2AD2 /* SceneDelegate.swift */,
 				84673B3127CCBF3000AE2AD2 /* ViewController.swift */,
+				84673B5D27CCCD8800AE2AD2 /* StudentTableViewCell.swift */,
 				84673B3327CCBF3000AE2AD2 /* Main.storyboard */,
 				84673B3627CCBF3100AE2AD2 /* Assets.xcassets */,
 				84673B3827CCBF3100AE2AD2 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				84673B3227CCBF3000AE2AD2 /* ViewController.swift in Sources */,
 				84673B2E27CCBF3000AE2AD2 /* AppDelegate.swift in Sources */,
 				84673B3027CCBF3000AE2AD2 /* SceneDelegate.swift in Sources */,
+				84673B5E27CCCD8800AE2AD2 /* StudentTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
